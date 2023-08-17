@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Swati Vishswakarma
+- 👋 Hi, I’m Swati Vishwakarma
 - 👀 I’m interested in Mern Full-Stack Developer
-- 🌱 I’m currently learning React Native and brushing my React Js and Node Js Concept
+- 🌱 I’m currently learning Docker and I have working experience in React, Node, Express MongoDB, and Mysql Cloud Computing (GCP) 
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me sati.v1011@gmail.com
 
