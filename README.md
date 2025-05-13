@@ -1,7 +1,7 @@
 
 # About Me:
 
-👋 Hi, I'm Swati Vishwakarma, a Computer Science graduate with a Master's in Computer Applications from DAVV University. With three years of professional experience at Appsdeployer IT Solution, I've led MERN projects and served as a Full Stack Developer.
+👋 Hi, I'm Swati Vishwakarma, a Computer Science graduate with a Master's in Computer Applications from DAVV University. With Four years of professional experience at Accenture and Appsdeployer IT Solution, I've led MERN projects and served as a Full Stack Developer.
 
 # Interested
 - 💞️ Full-Stack Developer and looking to collaborate on MERN
